@@ -1,0 +1,70 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2b4c81;
+  --ifm-color-primary-dark: #274474;
+  --ifm-color-primary-darker: #25416e;
+  --ifm-color-primary-darkest: #1e355a;
+  --ifm-color-primary-light: #2f548e;
+  --ifm-color-primary-lighter: #315794;
+  --ifm-color-primary-lightest: #3863a8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+.contact_container {
+  padding: 40px 0 16px;
+  background: #f5f5f5;
+}
+
+.contact_container .contact_text {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: center;
+}
+
+.contact_container .contact_items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 28px;
+  font-weight: 500;
+}
+
+.contact_container .contact_items .contact_items_inner {
+  max-width: 840px;
+  width: auto;
+}
+
+.contact_container .contact_items .contact_item {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 260px;
+  height: 64px;
+  padding: 12px;
+  margin: 0 10px 24px;
+  background: #fff;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
