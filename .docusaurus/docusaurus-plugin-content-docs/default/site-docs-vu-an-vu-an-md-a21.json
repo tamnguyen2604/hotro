@@ -1,0 +1,23 @@
+{
+  "unversionedId": "vu-an/vu-an",
+  "id": "vu-an/vu-an",
+  "title": "Vụ án",
+  "description": "",
+  "source": "@site/docs/vu-an/vu-an.md",
+  "sourceDirName": "vu-an",
+  "slug": "/vu-an/",
+  "permalink": "/docs/vu-an/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/vu-an.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vụ án",
+    "permalink": "/docs/category/vụ-án"
+  }
+}

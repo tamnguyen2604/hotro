@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tinbao",
+  "id": "tinbao",
+  "title": "Tin báo",
+  "description": "Mục đích",
+  "source": "@site/docs/tinbao.md",
+  "sourceDirName": ".",
+  "slug": "/tinbao",
+  "permalink": "/docs/tinbao",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tinbao.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Bắt, tạm giam, tạm giữ",
+    "permalink": "/docs/bat-tam-giam-tam-giu"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Tạm giữ",
+  "slug": "/category/tạm-giữ",
+  "permalink": "/docs/category/tạm-giữ",
+  "navigation": {
+    "previous": {
+      "title": "Bắt, tạm giam, tạm giữ",
+      "permalink": "/docs/bat-tam-giam-tam-giu"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

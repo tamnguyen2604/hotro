@@ -1,0 +1,16 @@
+{
+  "title": "Bla blo Nó là danh mục",
+  "description": "Ahihi.",
+  "slug": "/category/bla-blo-nó-là-danh-mục",
+  "permalink": "/docs/category/bla-blo-nó-là-danh-mục",
+  "navigation": {
+    "previous": {
+      "title": "Hướng dẫn sử dụng nghiệp vụ quản lý tiếp nhận và xử lý tin báo, tố giác",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Viết tiếp như nào",
+      "permalink": "/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

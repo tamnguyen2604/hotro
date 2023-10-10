@@ -1,0 +1,16 @@
+{
+  "title": "Vụ án",
+  "description": "Hehe.",
+  "slug": "/category/vụ-án",
+  "permalink": "/docs/category/vụ-án",
+  "navigation": {
+    "previous": {
+      "title": "Bắt, tạm giam, tạm giữ",
+      "permalink": "/docs/bat-tam-giam-tam-giu"
+    },
+    "next": {
+      "title": "Điều tra truy tố",
+      "permalink": "/docs/vu-an/dieu-tra-truy-to"
+    }
+  }
+}

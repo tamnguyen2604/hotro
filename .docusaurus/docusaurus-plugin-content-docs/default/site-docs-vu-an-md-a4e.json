@@ -1,0 +1,23 @@
+{
+  "unversionedId": "vu-an",
+  "id": "vu-an",
+  "title": "Vụ án",
+  "description": "",
+  "source": "@site/docs/vu-an.md",
+  "sourceDirName": ".",
+  "slug": "/vu-an",
+  "permalink": "/docs/vu-an",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bắt, tạm giam, tạm giữ",
+    "permalink": "/docs/bat-tam-giam-tam-giu"
+  }
+}

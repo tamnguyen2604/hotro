@@ -1,0 +1,16 @@
+{
+  "title": "tạm giam",
+  "description": "Ahihi.",
+  "slug": "/category/tạm-giam",
+  "permalink": "/docs/category/tạm-giam",
+  "navigation": {
+    "previous": {
+      "title": "Hướng dẫn sử dụng nghiệp vụ quản lý tiếp nhận và xử lý tin báo, tố giác",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Viết tiếp như nào",
+      "permalink": "/docs/bat-tamgiam-tamgiu/create-a-page"
+    }
+  }
+}

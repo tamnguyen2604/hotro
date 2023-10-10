@@ -1,0 +1,85 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tin báo",
+        "href": "/docs/tinbao",
+        "docId": "tinbao"
+      },
+      {
+        "type": "link",
+        "label": "Bắt, tạm giam, tạm giữ",
+        "href": "/docs/bat-tam-giam-tam-giu",
+        "docId": "bat-tam-giam-tam-giu"
+      },
+      {
+        "type": "category",
+        "label": "Vụ án",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Điều tra truy tố",
+            "href": "/docs/vu-an/dieu-tra-truy-to",
+            "docId": "vu-an/dieu-tra-truy-to"
+          },
+          {
+            "type": "link",
+            "label": "Kho biet",
+            "href": "/docs/vu-an/cai-gi-khong-biet",
+            "docId": "vu-an/cai-gi-khong-biet"
+          },
+          {
+            "type": "link",
+            "label": "sơ thẩm",
+            "href": "/docs/vu-an/so-tham",
+            "docId": "vu-an/so-tham"
+          }
+        ],
+        "href": "/docs/category/vụ-án"
+      }
+    ]
+  },
+  "docs": {
+    "bat-tam-giam-tam-giu": {
+      "id": "bat-tam-giam-tam-giu",
+      "title": "Bắt, tạm giam, tạm giữ",
+      "description": "Mục đích",
+      "sidebar": "tutorialSidebar"
+    },
+    "tinbao": {
+      "id": "tinbao",
+      "title": "Tin báo",
+      "description": "Mục đích",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/cai-gi-khong-biet": {
+      "id": "vu-an/cai-gi-khong-biet",
+      "title": "Kho biet",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/dieu-tra-truy-to": {
+      "id": "vu-an/dieu-tra-truy-to",
+      "title": "Điều tra truy tố",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/so-tham": {
+      "id": "vu-an/so-tham",
+      "title": "sơ thẩm",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

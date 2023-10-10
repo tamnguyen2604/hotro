@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "tinbao",
+          "docs": [
+            {
+              "id": "bat-tam-giam-tam-giu",
+              "path": "/docs/bat-tam-giam-tam-giu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tinbao",
+              "path": "/docs/tinbao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/cai-gi-khong-biet",
+              "path": "/docs/vu-an/cai-gi-khong-biet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/dieu-tra-truy-to",
+              "path": "/docs/vu-an/dieu-tra-truy-to",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/so-tham",
+              "path": "/docs/vu-an/so-tham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/vụ-án",
+              "path": "/docs/category/vụ-án",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/tinbao",
+                "label": "tinbao"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
