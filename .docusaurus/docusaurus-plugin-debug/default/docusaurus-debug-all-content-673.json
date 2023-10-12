@@ -20,16 +20,43 @@
           "contentPathLocalized": "D:\\TAM\\VIEN KIEM SAT NDTC\\HDSD\\hdsd_html\\hotro-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
+              "unversionedId": "bao-cao-theo-qd560",
+              "id": "bao-cao-theo-qd560",
+              "title": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+              "description": "Mục đích",
+              "source": "@site/docs/3-bao-cao-theo-qd560.md",
+              "sourceDirName": ".",
+              "slug": "/bao-cao-theo-qd560",
+              "permalink": "/docs/bao-cao-theo-qd560",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3-bao-cao-theo-qd560.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bắt, tạm giam, tạm giữ",
+                "permalink": "/docs/bat-tam-giam-tam-giu"
+              },
+              "next": {
+                "title": "Vụ án",
+                "permalink": "/docs/category/vụ-án"
+              }
+            },
+            {
               "unversionedId": "bat-tam-giam-tam-giu",
               "id": "bat-tam-giam-tam-giu",
               "title": "Bắt, tạm giam, tạm giữ",
               "description": "Mục đích",
-              "source": "@site/docs/bat-tam-giam-tam-giu.md",
+              "source": "@site/docs/2-bat-tam-giam-tam-giu.md",
               "sourceDirName": ".",
               "slug": "/bat-tam-giam-tam-giu",
               "permalink": "/docs/bat-tam-giam-tam-giu",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/bat-tam-giam-tam-giu.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2-bat-tam-giam-tam-giu.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -42,8 +69,8 @@
                 "permalink": "/docs/tinbao"
               },
               "next": {
-                "title": "Vụ án",
-                "permalink": "/docs/category/vụ-án"
+                "title": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+                "permalink": "/docs/bao-cao-theo-qd560"
               }
             },
             {
@@ -51,12 +78,12 @@
               "id": "tinbao",
               "title": "Tin báo",
               "description": "Mục đích",
-              "source": "@site/docs/tinbao.md",
+              "source": "@site/docs/1-tinbao.md",
               "sourceDirName": ".",
               "slug": "/tinbao",
               "permalink": "/docs/tinbao",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tinbao.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1-tinbao.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -70,43 +97,39 @@
               }
             },
             {
-              "unversionedId": "vu-an/cai-gi-khong-biet",
-              "id": "vu-an/cai-gi-khong-biet",
-              "title": "Kho biet",
+              "unversionedId": "vu-an/chuyen-an",
+              "id": "vu-an/chuyen-an",
+              "title": "Chuyển án",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/vu-an/cai-gi-khong-biet.md",
+              "source": "@site/docs/vu-an/9-chuyen-an.md",
               "sourceDirName": "vu-an",
-              "slug": "/vu-an/cai-gi-khong-biet",
-              "permalink": "/docs/vu-an/cai-gi-khong-biet",
+              "slug": "/vu-an/chuyen-an",
+              "permalink": "/docs/vu-an/chuyen-an",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/cai-gi-khong-biet.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/9-chuyen-an.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Điều tra truy tố",
-                "permalink": "/docs/vu-an/dieu-tra-truy-to"
-              },
-              "next": {
-                "title": "sơ thẩm",
-                "permalink": "/docs/vu-an/so-tham"
+                "title": "Tách vụ án",
+                "permalink": "/docs/vu-an/tach-vu-an"
               }
             },
             {
               "unversionedId": "vu-an/dieu-tra-truy-to",
               "id": "vu-an/dieu-tra-truy-to",
-              "title": "Điều tra truy tố",
+              "title": "Điều tra - Truy tố",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/vu-an/dieu-tra-truy-to.md",
+              "source": "@site/docs/vu-an/1-dieu-tra-truy-to.md",
               "sourceDirName": "vu-an",
               "slug": "/vu-an/dieu-tra-truy-to",
               "permalink": "/docs/vu-an/dieu-tra-truy-to",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/dieu-tra-truy-to.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/1-dieu-tra-truy-to.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -119,21 +142,183 @@
                 "permalink": "/docs/category/vụ-án"
               },
               "next": {
-                "title": "Kho biet",
-                "permalink": "/docs/vu-an/cai-gi-khong-biet"
+                "title": "Xét xử sơ thẩm",
+                "permalink": "/docs/vu-an/xet-xu-so-tham"
               }
             },
             {
-              "unversionedId": "vu-an/so-tham",
-              "id": "vu-an/so-tham",
-              "title": "sơ thẩm",
+              "unversionedId": "vu-an/nhan-an",
+              "id": "vu-an/nhan-an",
+              "title": "Nhận án",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/vu-an/so-tham.md",
+              "source": "@site/docs/vu-an/6-nhan-an.md",
               "sourceDirName": "vu-an",
-              "slug": "/vu-an/so-tham",
-              "permalink": "/docs/vu-an/so-tham",
+              "slug": "/vu-an/nhan-an",
+              "permalink": "/docs/vu-an/nhan-an",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/so-tham.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/6-nhan-an.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Thi hành án",
+                "permalink": "/docs/vu-an/thi-hanh-an"
+              },
+              "next": {
+                "title": "Nhập vụ án",
+                "permalink": "/docs/vu-an/nhap-vu-an"
+              }
+            },
+            {
+              "unversionedId": "vu-an/nhap-vu-an",
+              "id": "vu-an/nhap-vu-an",
+              "title": "Nhập vụ án",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/7-nhap-vu-an.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/nhap-vu-an",
+              "permalink": "/docs/vu-an/nhap-vu-an",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/7-nhap-vu-an.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nhận án",
+                "permalink": "/docs/vu-an/nhan-an"
+              },
+              "next": {
+                "title": "Tách vụ án",
+                "permalink": "/docs/vu-an/tach-vu-an"
+              }
+            },
+            {
+              "unversionedId": "vu-an/tach-vu-an",
+              "id": "vu-an/tach-vu-an",
+              "title": "Tách vụ án",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/8-tach-vu-an.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/tach-vu-an",
+              "permalink": "/docs/vu-an/tach-vu-an",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/8-tach-vu-an.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nhập vụ án",
+                "permalink": "/docs/vu-an/nhap-vu-an"
+              },
+              "next": {
+                "title": "Chuyển án",
+                "permalink": "/docs/vu-an/chuyen-an"
+              }
+            },
+            {
+              "unversionedId": "vu-an/thi-hanh-an",
+              "id": "vu-an/thi-hanh-an",
+              "title": "Thi hành án",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/5-thi-hanh-an.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/thi-hanh-an",
+              "permalink": "/docs/vu-an/thi-hanh-an",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/5-thi-hanh-an.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Xét xử GĐT-TT",
+                "permalink": "/docs/vu-an/xet-xu-gdt-tt"
+              },
+              "next": {
+                "title": "Nhận án",
+                "permalink": "/docs/vu-an/nhan-an"
+              }
+            },
+            {
+              "unversionedId": "vu-an/xet-xu-gdt-tt",
+              "id": "vu-an/xet-xu-gdt-tt",
+              "title": "Xét xử GĐT-TT",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/4-xet-xu-gdt-tt.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/xet-xu-gdt-tt",
+              "permalink": "/docs/vu-an/xet-xu-gdt-tt",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/4-xet-xu-gdt-tt.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Xét xử phúc thẩm",
+                "permalink": "/docs/vu-an/xet-xu-phuc-tham"
+              },
+              "next": {
+                "title": "Thi hành án",
+                "permalink": "/docs/vu-an/thi-hanh-an"
+              }
+            },
+            {
+              "unversionedId": "vu-an/xet-xu-phuc-tham",
+              "id": "vu-an/xet-xu-phuc-tham",
+              "title": "Xét xử phúc thẩm",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/3-xet-xu-phuc-tham.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/xet-xu-phuc-tham",
+              "permalink": "/docs/vu-an/xet-xu-phuc-tham",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/3-xet-xu-phuc-tham.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Xét xử sơ thẩm",
+                "permalink": "/docs/vu-an/xet-xu-so-tham"
+              },
+              "next": {
+                "title": "Xét xử GĐT-TT",
+                "permalink": "/docs/vu-an/xet-xu-gdt-tt"
+              }
+            },
+            {
+              "unversionedId": "vu-an/xet-xu-so-tham",
+              "id": "vu-an/xet-xu-so-tham",
+              "title": "Xét xử sơ thẩm",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/vu-an/2-xet-xu-so-tham.md",
+              "sourceDirName": "vu-an",
+              "slug": "/vu-an/xet-xu-so-tham",
+              "permalink": "/docs/vu-an/xet-xu-so-tham",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/2-xet-xu-so-tham.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -142,8 +327,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Kho biet",
-                "permalink": "/docs/vu-an/cai-gi-khong-biet"
+                "title": "Điều tra - Truy tố",
+                "permalink": "/docs/vu-an/dieu-tra-truy-to"
+              },
+              "next": {
+                "title": "Xét xử phúc thẩm",
+                "permalink": "/docs/vu-an/xet-xu-phuc-tham"
               }
             }
           ],
@@ -159,6 +348,10 @@
                 "id": "bat-tam-giam-tam-giu"
               },
               {
+                "type": "doc",
+                "id": "bao-cao-theo-qd560"
+              },
+              {
                 "type": "category",
                 "label": "Vụ án",
                 "collapsible": true,
@@ -170,16 +363,40 @@
                   },
                   {
                     "type": "doc",
-                    "id": "vu-an/cai-gi-khong-biet"
+                    "id": "vu-an/xet-xu-so-tham"
                   },
                   {
                     "type": "doc",
-                    "id": "vu-an/so-tham"
+                    "id": "vu-an/xet-xu-phuc-tham"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/xet-xu-gdt-tt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/thi-hanh-an"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/nhan-an"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/nhap-vu-an"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/tach-vu-an"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vu-an/chuyen-an"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Hehe.",
+                  "description": " ",
                   "slug": "/category/vụ-án",
                   "permalink": "/docs/category/vụ-án"
                 }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vu-an/xet-xu-phuc-tham copy",
+  "id": "vu-an/xet-xu-phuc-tham copy",
+  "title": "Xét xử phúc thẩm",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/vu-an/xet-xu-phuc-tham copy.md",
+  "sourceDirName": "vu-an",
+  "slug": "/vu-an/xet-xu-phuc-tham copy",
+  "permalink": "/docs/vu-an/xet-xu-phuc-tham copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/xet-xu-phuc-tham copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Điều tra - Truy tố",
+    "permalink": "/docs/vu-an/dieu-tra-truy-to"
+  },
+  "next": {
+    "title": "Xét xử phúc thẩm",
+    "permalink": "/docs/vu-an/xet-xu-phuc-tham"
+  }
+}

@@ -11,6 +11,11 @@
           "mainDocId": "tinbao",
           "docs": [
             {
+              "id": "bao-cao-theo-qd560",
+              "path": "/docs/bao-cao-theo-qd560",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "bat-tam-giam-tam-giu",
               "path": "/docs/bat-tam-giam-tam-giu",
               "sidebar": "tutorialSidebar"
@@ -21,8 +26,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "vu-an/cai-gi-khong-biet",
-              "path": "/docs/vu-an/cai-gi-khong-biet",
+              "id": "vu-an/chuyen-an",
+              "path": "/docs/vu-an/chuyen-an",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,8 +36,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "vu-an/so-tham",
-              "path": "/docs/vu-an/so-tham",
+              "id": "vu-an/nhan-an",
+              "path": "/docs/vu-an/nhan-an",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/nhap-vu-an",
+              "path": "/docs/vu-an/nhap-vu-an",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/tach-vu-an",
+              "path": "/docs/vu-an/tach-vu-an",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/thi-hanh-an",
+              "path": "/docs/vu-an/thi-hanh-an",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/xet-xu-gdt-tt",
+              "path": "/docs/vu-an/xet-xu-gdt-tt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/xet-xu-phuc-tham",
+              "path": "/docs/vu-an/xet-xu-phuc-tham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vu-an/xet-xu-so-tham",
+              "path": "/docs/vu-an/xet-xu-so-tham",
               "sidebar": "tutorialSidebar"
             },
             {

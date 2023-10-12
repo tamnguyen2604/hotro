@@ -22,6 +22,12 @@
         "docId": "bat-tam-giam-tam-giu"
       },
       {
+        "type": "link",
+        "label": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+        "href": "/docs/bao-cao-theo-qd560",
+        "docId": "bao-cao-theo-qd560"
+      },
+      {
         "type": "category",
         "label": "Vụ án",
         "collapsible": true,
@@ -29,21 +35,57 @@
         "items": [
           {
             "type": "link",
-            "label": "Điều tra truy tố",
+            "label": "Điều tra - Truy tố",
             "href": "/docs/vu-an/dieu-tra-truy-to",
             "docId": "vu-an/dieu-tra-truy-to"
           },
           {
             "type": "link",
-            "label": "Kho biet",
-            "href": "/docs/vu-an/cai-gi-khong-biet",
-            "docId": "vu-an/cai-gi-khong-biet"
+            "label": "Xét xử sơ thẩm",
+            "href": "/docs/vu-an/xet-xu-so-tham",
+            "docId": "vu-an/xet-xu-so-tham"
           },
           {
             "type": "link",
-            "label": "sơ thẩm",
-            "href": "/docs/vu-an/so-tham",
-            "docId": "vu-an/so-tham"
+            "label": "Xét xử phúc thẩm",
+            "href": "/docs/vu-an/xet-xu-phuc-tham",
+            "docId": "vu-an/xet-xu-phuc-tham"
+          },
+          {
+            "type": "link",
+            "label": "Xét xử GĐT-TT",
+            "href": "/docs/vu-an/xet-xu-gdt-tt",
+            "docId": "vu-an/xet-xu-gdt-tt"
+          },
+          {
+            "type": "link",
+            "label": "Thi hành án",
+            "href": "/docs/vu-an/thi-hanh-an",
+            "docId": "vu-an/thi-hanh-an"
+          },
+          {
+            "type": "link",
+            "label": "Nhận án",
+            "href": "/docs/vu-an/nhan-an",
+            "docId": "vu-an/nhan-an"
+          },
+          {
+            "type": "link",
+            "label": "Nhập vụ án",
+            "href": "/docs/vu-an/nhap-vu-an",
+            "docId": "vu-an/nhap-vu-an"
+          },
+          {
+            "type": "link",
+            "label": "Tách vụ án",
+            "href": "/docs/vu-an/tach-vu-an",
+            "docId": "vu-an/tach-vu-an"
+          },
+          {
+            "type": "link",
+            "label": "Chuyển án",
+            "href": "/docs/vu-an/chuyen-an",
+            "docId": "vu-an/chuyen-an"
           }
         ],
         "href": "/docs/category/vụ-án"
@@ -51,6 +93,12 @@
     ]
   },
   "docs": {
+    "bao-cao-theo-qd560": {
+      "id": "bao-cao-theo-qd560",
+      "title": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+      "description": "Mục đích",
+      "sidebar": "tutorialSidebar"
+    },
     "bat-tam-giam-tam-giu": {
       "id": "bat-tam-giam-tam-giu",
       "title": "Bắt, tạm giam, tạm giữ",
@@ -63,21 +111,57 @@
       "description": "Mục đích",
       "sidebar": "tutorialSidebar"
     },
-    "vu-an/cai-gi-khong-biet": {
-      "id": "vu-an/cai-gi-khong-biet",
-      "title": "Kho biet",
+    "vu-an/chuyen-an": {
+      "id": "vu-an/chuyen-an",
+      "title": "Chuyển án",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
     "vu-an/dieu-tra-truy-to": {
       "id": "vu-an/dieu-tra-truy-to",
-      "title": "Điều tra truy tố",
+      "title": "Điều tra - Truy tố",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
-    "vu-an/so-tham": {
-      "id": "vu-an/so-tham",
-      "title": "sơ thẩm",
+    "vu-an/nhan-an": {
+      "id": "vu-an/nhan-an",
+      "title": "Nhận án",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/nhap-vu-an": {
+      "id": "vu-an/nhap-vu-an",
+      "title": "Nhập vụ án",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/tach-vu-an": {
+      "id": "vu-an/tach-vu-an",
+      "title": "Tách vụ án",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/thi-hanh-an": {
+      "id": "vu-an/thi-hanh-an",
+      "title": "Thi hành án",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-gdt-tt": {
+      "id": "vu-an/xet-xu-gdt-tt",
+      "title": "Xét xử GĐT-TT",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-phuc-tham": {
+      "id": "vu-an/xet-xu-phuc-tham",
+      "title": "Xét xử phúc thẩm",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-so-tham": {
+      "id": "vu-an/xet-xu-so-tham",
+      "title": "Xét xử sơ thẩm",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vu-an copy/nhap-vu-an",
+  "id": "vu-an copy/nhap-vu-an",
+  "title": "Nhập vụ án",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/vu-an copy/7-nhap-vu-an.md",
+  "sourceDirName": "vu-an copy",
+  "slug": "/vu-an copy/nhap-vu-an",
+  "permalink": "/docs/vu-an copy/nhap-vu-an",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an copy/7-nhap-vu-an.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nhận án",
+    "permalink": "/docs/vu-an copy/nhan-an"
+  },
+  "next": {
+    "title": "Tách vụ án",
+    "permalink": "/docs/vu-an copy/tach-vu-an"
+  }
+}

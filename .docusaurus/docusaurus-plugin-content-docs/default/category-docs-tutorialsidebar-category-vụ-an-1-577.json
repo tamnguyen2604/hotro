@@ -1,0 +1,16 @@
+{
+  "title": "Vụ án",
+  "description": "Mời các bạn chọn danh mục bên dưới",
+  "slug": "/category/vụ-án-1",
+  "permalink": "/docs/category/vụ-án-1",
+  "navigation": {
+    "previous": {
+      "title": "Chuyển án",
+      "permalink": "/docs/vu-an/chuyen-an"
+    },
+    "next": {
+      "title": "Điều tra - Truy tố",
+      "permalink": "/docs/vu-an copy/dieu-tra-truy-to"
+    }
+  }
+}

@@ -99,11 +99,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'db0'),
+    component: ComponentCreator('/docs', '203'),
     routes: [
       {
+        path: '/docs/bao-cao-theo-qd560',
+        component: ComponentCreator('/docs/bao-cao-theo-qd560', 'cb8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/bat-tam-giam-tam-giu',
-        component: ComponentCreator('/docs/bat-tam-giam-tam-giu', 'ee2'),
+        component: ComponentCreator('/docs/bat-tam-giam-tam-giu', '7cb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -115,25 +121,61 @@ export default [
       },
       {
         path: '/docs/tinbao',
-        component: ComponentCreator('/docs/tinbao', '8bd'),
+        component: ComponentCreator('/docs/tinbao', 'cf6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/vu-an/cai-gi-khong-biet',
-        component: ComponentCreator('/docs/vu-an/cai-gi-khong-biet', '5e8'),
+        path: '/docs/vu-an/chuyen-an',
+        component: ComponentCreator('/docs/vu-an/chuyen-an', 'b3a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/vu-an/dieu-tra-truy-to',
-        component: ComponentCreator('/docs/vu-an/dieu-tra-truy-to', '6f4'),
+        component: ComponentCreator('/docs/vu-an/dieu-tra-truy-to', 'ee8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/vu-an/so-tham',
-        component: ComponentCreator('/docs/vu-an/so-tham', '124'),
+        path: '/docs/vu-an/nhan-an',
+        component: ComponentCreator('/docs/vu-an/nhan-an', '309'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/nhap-vu-an',
+        component: ComponentCreator('/docs/vu-an/nhap-vu-an', '48b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/tach-vu-an',
+        component: ComponentCreator('/docs/vu-an/tach-vu-an', 'e5b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/thi-hanh-an',
+        component: ComponentCreator('/docs/vu-an/thi-hanh-an', '47f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/xet-xu-gdt-tt',
+        component: ComponentCreator('/docs/vu-an/xet-xu-gdt-tt', 'bd6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/xet-xu-phuc-tham',
+        component: ComponentCreator('/docs/vu-an/xet-xu-phuc-tham', '730'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/vu-an/xet-xu-so-tham',
+        component: ComponentCreator('/docs/vu-an/xet-xu-so-tham', '5b0'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
