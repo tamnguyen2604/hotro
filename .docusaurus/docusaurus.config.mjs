@@ -303,6 +303,10 @@ export default {
         }
       ]
     },
+    "tableOfContents": {
+      "minHeadingLevel": 2,
+      "maxHeadingLevel": 6
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -315,11 +319,7 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
-    "tableOfContents": {
-      "minHeadingLevel": 2,
-      "maxHeadingLevel": 3
-    }
+    "metadata": []
   },
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",

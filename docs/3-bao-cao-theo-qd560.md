@@ -25,206 +25,174 @@ sidebar_position: 2
 
 > Để thực hiện tìm kiếm thông tin yêu cầu báo cáo, NSD cần thực hiện các bước sau:
 
-•	Bước 1: Chọn hoặc nhập tham số các tiêu chí để tìm kiếm thông tin, chi tiết như sau.
-+ Nhập ngày số liệu từ ngày, đến ngày: Chọn giá trị từ bảng calendar hiển thị
+**Bước 1:** Chọn hoặc nhập tham số các tiêu chí để tìm kiếm thông tin, chi tiết như sau.
++ **Nhập ngày số liệu từ ngày, đến ngày:** Chọn giá trị từ bảng calendar hiển thị
 
-+ Biểu báo cáo: Chọn các loại biểu thống kê theo danh sách
++ **Biểu báo cáo:** Chọn các loại biểu thống kê theo danh sách
 
-•	Bước 2:  Nhấn nút <Tìm kiếm> để thực hiện tìm kiếm danh sách bản ghi các yêu cầu báo cáo theo tiêu chí tìm kiếm
-Chú ý: Danh sách bản ghi có cột <Trạng thái> là tình trạng hệ thống thực hiện xử lý yêu cầu báo cáo và được biểu diễn bằng màu sắc:
-•	Trạng thái Chưa gửi số liệu: Là trạng thái người sử dụng đang kiểm tra lại số liệu vừa tổng hợp, chưa bấm gửi số liệu lên cơ quan cấp trên, người sử dụng có thể thực hiện các thao tác trên bản ghi của báo cáo đó (Xem chi tiết, sửa, xóa), thể hiện trạng thái màu xám.
-•	Trạng thái Đã gửi số liệu: Là trạng thái người sử dụng bấm nút Gửi số liệu lên cơ quan cấp trên và hệ thống gửi số liệu báo cáo lên cơ quan cấp trên thành công, người sử dụng chỉ có thể xem chi tiết bản ghi của báo cáo và không thực hiện các thao tác trên bản ghi của báo cáo đó, thể hiện trạng thái là màu xanh lá cây.
-•	Trạng thái Số liệu bị trả lại: Là trạng thái khi báo cáo của người sử dụng gửi số liệu lên cơ quan cấp trên và được cấp trên trả lại để kiểm tra báo cáo lại, thể hiện trạng thái là màu vàng
+**Bước 2:**  Nhấn nút **<Tìm kiếm>** để thực hiện tìm kiếm danh sách bản ghi các yêu cầu báo cáo theo tiêu chí tìm kiếm
 
-### Bước 2: Vào chức năng
-Vào phân hệ **Bắt, tạm giam, tạm giữ** --> menu **Bắt, tạm giam, tạm giữ**.
+**Chú ý:** Danh sách bản ghi có cột **<Trạng thái>** là tình trạng hệ thống thực hiện xử lý yêu cầu báo cáo và được biểu diễn bằng màu sắc:
 
-Sau khi truy cập vào chức năng, hệ thống hiển thị giao diện màn hình chính như sau: 
+•	**Trạng thái Chưa gửi số liệu:** Là trạng thái người sử dụng đang kiểm tra lại số liệu vừa tổng hợp, chưa bấm gửi số liệu lên cơ quan cấp trên, người sử dụng có thể thực hiện các thao tác trên bản ghi của báo cáo đó (Xem chi tiết, sửa, xóa), thể hiện trạng thái màu xám.
 
+•	**Trạng thái Đã gửi số liệu:** Là trạng thái người sử dụng bấm nút Gửi số liệu lên cơ quan cấp trên và hệ thống gửi số liệu báo cáo lên cơ quan cấp trên thành công, người sử dụng chỉ có thể xem chi tiết bản ghi của báo cáo và không thực hiện các thao tác trên bản ghi của báo cáo đó, thể hiện trạng thái là màu xanh lá cây.
 
-![Giao diện màn hình tạm giam 1](/img/tgtg1.png)
+•	**Trạng thái Số liệu bị trả lại:** Là trạng thái khi báo cáo của người sử dụng gửi số liệu lên cơ quan cấp trên và được cấp trên trả lại để kiểm tra báo cáo lại, thể hiện trạng thái là màu vàng
 
-### Bước 3: Tìm kiếm bắt, tạm giam, tạm giữ
+#### Chức năng Báo cáo thống kê
 
-Tại màn hình danh sách bắt tạm giam, tạm giữ NSD bấm nút **Tìm kiếm** 
+•	Tại màn hình danh sách số liệu báo cáo đã nhập, người dùng chọn nút **<Báo cáo thống kê>**
 
- 
-Để thực hiện tìm kiếm thông tin bắt tạm giam, tạm giữ, NSD cần thực hiện các bước sau: 
+![Giao diện màn hình báo cáo 2](/img/bc2.png)
 
-![Giao diện màn hình tạm giam 2](/img/tgtg2.png)
+Hệ thống hiển thị màn hình nhập “Báo cáo thống kê” như sau:
 
-Bước 1: Chọn hoặc nhập tham số các tiêu chí để tìm kiếm thông tin
+![Giao diện màn hình báo cáo 3](/img/bc3.png)
 
-Ví dụ:
+>Để thực hiện yêu cầu báo cáo thống kê, NSD cần thực hiện các bước sau:
 
-•	Mã: 10506 
+**Bước 1:** Người sử dụng nhập các thông tin sau:
 
-•	Người bị bắt giữ: Nguyễn Ngọc Khánh 
++ **Biểu báo cáo:** Chọn các loại biểu thống kê từ danh sách
 
-Bước 2: NSD nhấn nút **<Tìm kiếm>** để thực hiện tìm kiếm danh sách bản ghi  bắt tạm giam,tạm giữ theo tiêu chí tìm kiếm
++ **Báo cáo công tác:** Chọn báo cáo công tác theo từng tháng, 6 tháng đầu năm, 6 tháng cuối năm, 12 tháng
 
-### Bước 4: Thêm mới thông tin chung bắt, tạm giam, tạm giữ
++ **Năm:** Chọn năm báo cáo
 
-Tại màn hình danh sách bắt tạm giam, tạm giữ NSD bấm nút **<Thêm mới>**:
++ **Người lập thống kê:** Hệ thống hiển thị mặc định theo tài khoản đăng nhập
++ **Lãnh đạo:** cho phép NSD tùy nhập
 
-![Giao diện màn hình tạm giam 3](/img/tgtg3.png)
++ **Đơn vị thống kê:** Hiển thị mặc định theo tài khoản đăng nhập, lấy dữ liệu của chính đơn vị đó
 
-Để thực hiện thêm mới thông tin bắt, tạm giam, tạm giữ, NSD cần thực hiện các bước sau: 
+**Chú ý:**
 
-![Giao diện màn hình tạm giam 4](/img/tgtg4.png)
+Khi nhập thông tin những trường có dấu (*) là trường bắt buộc nhập, nếu không nhập hiển thị cảnh báo “Trường bắt buộc nhập” yêu cầu người dùng không được để trống
 
-Bước 1: NSD nhập các thông tin sau: 
+**Bước 2:**
 
-•	Nội dung bắt giữ 
+o	Nếu NSD bấm nút **<Hủy>** hệ thống thực hiện quay lại màn hình trước đó. 
 
-•	Các trường khác tùy nhập 
+o	Nếu bấm nút **<Báo cáo thống kê>**, Hệ thống hiển thị màn hình thông tin biểu số tương ứng với yêu cầu báo cáo đã chọn gồm các thông tin như sau:
 
-•	Danh sách người bị bắt, tạm giữ: cho phép NSD nhập thông tin người bị bắt, tạm giữ 
+![Giao diện màn hình báo cáo 4](/img/bc4.png)
+![Giao diện màn hình báo cáo 5](/img/bc5.png)
 
-Bước 2: + Nếu NSD nhấn nút **<Ghi lại>**, hệ thống hiển thị popup xác nhận lưu bản ghi. 
- 
-Bước 3.1: NSD nhấn nút **<Có>**, hệ thống thêm mới thông tin bắt, tạm giam, tạm giữ thành công, thông tin được lưu vào Quản lý bắt, tạm giam, tạm giữ 
+NSD thực hiện đối sánh dữ liệu với phần mềm thống kê của Cục Thống kê tội phạm & CNTT và so sánh với dữ liệu từ chính bản cứng (cột **SỐ LIỆU HỆ THỐNG**). Nếu đã khớp dữ liệu, NSD có thể thực hiện Kết xuất báo cáo bằng cách nhấn vào nút **“Lưu lại”** để có số liệu gửi lên cơ quan cấp trên
 
-Bước 3.2: NSD nhấn nút **<Không>**, bản ghi sẽ không được thêm vào danh sách Quản lý bắt, tạm giam, tạm giữ 
-+ Nếu NSD kích vào nút **<Hủy bỏ>** thông tin nhập sẽ không được lưu và quay về màn hình trước đó
+![Giao diện màn hình báo cáo 6](/img/bc6.png)
 
-### Bước 5: Thêm mới Danh sách người bị bắt, tạm giữ
+Còn không, NSD nhập giá trị vào cột **SỐ LIỆU HIỆU CHỈNH** để sửa số liệu báo cáo.
 
-Tại màn hình Thêm mới thông tin bắt, tạm giam, tạm giữ --> Mục Danh sách người bị bắt, tạm giữ NSD kích vào nút **<Thêm mới>**
-  
-![Giao diện màn hình tạm giam 6](/img/tgtg6.png)
- 
-Để thực hiện Thêm mới thông tin người bị bắt, tạm giữ, NSD cần thực hiện các bước sau: 
+![Giao diện màn hình báo cáo 7](/img/bc7.png)
 
-![Giao diện màn hình tạm giam 5](/img/tgtg5.png)
+Nếu dòng nào NSD thay đổi dữ liệu thì khi kết xuất số liệu sẽ hiển thị dữ liệu đã hiệu chỉnh. Ngược lại, những dòng không thay đổi sẽ lấy số liệu hệ thống
 
-Bước 1: NSD nhập các thông tin sau bắt buộc: 
+Sau khi lưu lại kết quả báo báo hệ thống hiển thị nút chức năng **Kết xuất** để người dùng tải file phục vụ chức năng gửi số liệu lên cơ quan cấp trên
 
-•	Loại bắt giữ 
++ Hiện tại hệ thống cho kết xuất dưới dạng excel và .pdf
 
-•	Thời gian bắt giữ 
+![Giao diện màn hình báo cáo 8](/img/bc8.png)
 
-•	Họ tên 
+#### Chức năng Gửi số liệu lên cơ quan cấp trên
 
-•	Năm sinh 
+Sau khi người dùng thực hiện Lưu lại kết quả báo cáo và kết xuất file về máy, NSD bấm lại menu “Báo cáo thống kê” ở menu bên trái để xem danh sách kết quả báo cáo
 
-•	Và các trường khác (tùy nhập) 
+![Giao diện màn hình báo cáo 9](/img/bc9.png)
 
-•	Hành vi vi phạm kỷ luật: cho phép NSD nhập thông tin hành vi vi phạm
+Để gửi số liệu lên cơ quan cấp trên NSD thao tác như sau:
 
-•	Hành vi phạm tội: cho phép NSD nhập thông tin hành vi phạm tội 
+![Giao diện màn hình báo cáo 10](/img/bc10.png)
 
-Bước 2: NSD bấm nút **<Ghi lại>**, hệ thống lưu thông tin thêm mới vào Danh sách người bị bắt, tạm giữ 
- 
-Bước 3: Để hủy thông tin thêm mới thông tin bắt, tạm giam, tạm giữ, NSD kích nút **<Hủy bỏ>**.
+Chọn báo cáo cần gửi --> bấm nút **“Gửi số liệu lên cơ quan cấp trên”** (chỉ có các báo cáo có trạng thái “Chưa gửi số liệu” mới có nút chức năng này), giao diện hiển thị như sau:
 
-**a) Chức năng Sao chép thông tin người bắt, tạm giam, tạm giữ**
+![Giao diện màn hình báo cáo 11](/img/bc11.png)
 
-![Giao diện màn hình tạm giam 7](/img/tgtg7.png)
+-	NSD chọn tệp đã kết xuất khi lưu lại kết quả báo cáo thống kê trước đó
+-	Nếu NSD bấm nút **<Hủy>** hệ thống thực hiện quay lại màn hình trước đó.
+-	Nếu bấm nút **<Gửi báo cáo>**, hệ thống hiển thị thông báo gửi thành công và trạng thái của báo cáo sẽ chuyển sang “Đã gửi số liệu”, NSD có thể xem lại báo cáo vừa chuyển lên cấp trên bằng cách bấm vào icon Xem chi tiết ở cột Thao tác.
 
-Tại danh sách **<Danh sách người bị bắt, tạm giữ>**, nhấn biểu tượng **<Sao chép>** tương ứng với bản ghi cần thực hiện sửa, hiển thị màn hình **<Sao chép thông tin người bắt, tạm giam, tạm giữ>**
+#### Chức năng Xóa báo cáo
 
-![Giao diện màn hình tạm giam 8](/img/tgtg8.png)
+Chức năng áp dụng đối với báo cáo có trạng thái **<Chưa gửi số liệu>** và **<Số liệu bị trả lại>**, thao tác như sau:
 
-•	Hiển thị giá trị tại các trường thông tin của bản ghi được chọn sao chép và cho NSD thực hiện nhập 
+•	Tại màn hình danh sách báo cáo, người dùng chọn báo cáo cần xóa nhấn nút icon **<Xóa>**
 
-•	Các thông tin nhập xem hướng dẫn tương tự như màn hình **<Thêm thông tin người bắt, tạm giam, tạm giữ>**
- 
-**b) Chức năng Sửa thông tin người bắt, tạm giam , tạm giữ**
+![Giao diện màn hình báo cáo 12](/img/bc12.png)
 
-![Giao diện màn hình tạm giam 9](/img/tgtg9.png)
+•	Hệ thống hiển thị màn “Xác nhận” yêu cầu xóa:
 
-Tại danh sách **<Danh sách người bị bắt, tạm giữ>**, nhấn biểu tượng **<Sửa>** 
+o	Nếu NSD bấm nút **<Có>** hệ thống thực hiện xóa bản ghi và quay lại màn hình danh sách yêu cầu báo cáo. 
 
-![Giao diện màn hình tạm giam 10](/img/tgtg10.png)
+o	Nếu bấm nút **<Không>**, quay trở lại màn hình danh sách kết quả báo cáo
 
-Tương ứng với bản ghi cần thực hiện sửa, các thông tin nhập xem hướng dẫn tương tự như màn hình Thêm mới thông tin người bắt, tạm giam, tạm giữ 
- 
-**c) Chức năng Xóa thông tin người bắt, tạm giam, tạm giữ**
+![Giao diện màn hình báo cáo 13](/img/bc13.png)
 
-Để thực hiện chức năng xóa thông tin người bị bắt, tạm giữ NSD thực hiện các bước sau: 
+### Đối với tài khoản cấp VKSND Tỉnh
 
-![Giao diện màn hình tạm giam 11](/img/tgtg11.png)
+**Lưu ý:** NSD có thể đăng nhập theo tài khoản và mật khẩu đã được cấp trước đây nhưng phải được bổ sung thêm quyền truy cập vào chức năng Báo cáo theo QĐ số 560/QĐ-VKSTC
 
- Bước 1: Tại phần **<Danh sách người bị bắt, tạm giữ>**, nhấn biểu tượng **<Xóa>** tương ứng với bản ghi cần thực hiện xóa, hệ thống hiển thị thông báo xác nhận xóa 
+#### Chức năng Xem số liệu đơn vị cấp dưới
 
- ![Giao diện màn hình tạm giam 12](/img/tgtg12.png)
- 
-TH1: Nhấn nút **<Có>**, bản ghi được xóa thành công và được xóa khỏi **<Danh sách người bị bắt, tạm giữ>** 
++ NSD Đăng nhập thành công vào đường dẫn **https://baocao.vksndtc.gov.vn** và nhấn chọn **<Báo cáo theo QĐ số 560/QĐ-VKSTC>** trên thanh menu trái
++ NSD vào chức năng Xem số liệu đơn vị cấp dưới, hệ thống hiển thị màn hình giao diện chính như sau:
 
-TH2: Nhấn nút **<Không>**, bản ghi không được xóa vẫn hiển thị tại **<Danh sách người bị bắt, tạm giữ>**
+![Giao diện màn hình báo cáo 14](/img/bc14.png)
 
-**d) Chức năng Xem thông tin người bắt, tạm giam, tạm giữ**
+Để thực hiện tìm kiếm thông tin số liệu báo cáo đơn vị cấp dưới, NSD cần thực hiện các bước sau:
 
-Tại danh sách **<Danh sách người bị bắt, tạm giữ>**, nhấn biểu tượng `Xem` tương ứng với bản ghi cần thực hiện xem 
+![Giao diện màn hình báo cáo 15](/img/bc15.png)
 
-![Giao diện màn hình tạm giam 13](/img/tgtg13.png)
- 
-Hệ thống hiển thị màn hình xem chi tiết quyết định giải quyết như sau: 
+**Bước 1:** Chọn hoặc nhập tham số các tiêu chí để tìm kiếm thông tin, chi tiết như sau:
 
-![Giao diện màn hình tạm giam 14](/img/tgtg14.png)
+- **Biểu báo cáo:** Chọn các loại biểu thống kê theo danh sách
+- **Báo cáo công tác:** Chọn báo cáo công tác theo từng tháng, 6 tháng đầu năm, 6 tháng cuối năm, 12 tháng
+- **Chọn đơn vị:** Hệ thống hiển thị danh sách các phòng và các quận huyện của Tỉnh/TP để NSD lựa chọn
 
-### Bước 6: Cập nhật thông tin bắt, tạm giam, tạm giữ
+**Bước 2:**  Nhấn nút **<Tìm kiếm>** để thực hiện tìm kiếm danh sách bản ghi các yêu cầu báo cáo theo tiêu chí tìm kiếm
 
-Tại màn hình Danh sách bắt tạm giam, tạm giữ NSD tích chọn một bản ghi cần cập nhật rồi bấm nút **<Cập nhật thông tin>**
+**Chú ý:** NSD có thể tải file kết xuất của đơn vị cấp dưới về máy bằng cách bấm vào tệp báo cáo trong cột Tệp báo cáo ở danh sách
 
-![Giao diện màn hình tạm giam 15](/img/tgtg15.png)
- 
-Để thực hiện cập nhật thông tin bắt, tạm giam, tạm giữ, NSD cần thực hiện các bước sau: 
+#### Chức năng Trả lại báo cáo
 
-![Giao diện màn hình tạm giam 16](/img/tgtg16.png)
+**Mục đích:** Khi số liệu đơn vị cấp dưới có sự chênh lệch hoặc chưa đúng yêu cầu báo cáo, đơn vị cấp trên có thể sử dụng chức năng này để cấp dưới báo cáo lại.
 
-Bước 1: NSD cập nhập các phần thông tin sau: 
+NSD vào chức năng Xem số liệu đơn vị cấp dưới, để thực hiện chức năng Trả lại báo cáo cho đơn vị cấp dưới, NSD cần thực hiện các bước sau:
 
-•	Thông tin chung 
+![Giao diện màn hình báo cáo 16](/img/bc16.png)
 
-•	Danh sách người bị bắt, tạm giữ: thực hiện các chức năng tương tự như màn hình Thêm mới thông tin người bắt, tạm giam, tạm giữ 
+•	Bước 1: Chọn nút Xem số liệu đơn vị cấp dưới
 
-•	Thông tin xử lý
+•	Bước 2:  Chọn báo cáo đơn vị cấp dưới gửi lên mà cấp trên muốn trả lại
 
-•	Quyết địn xử lý: cho phép NSD nhập thông tin Quyết định xử lý
+•	Bước 3: Bấm nút Trả lại báo cáo, màn hình hiển thị như sau:
 
-Bước 2: + Nếu NSD nhấn nút **<Ghi lại>**, hệ thống hiển thị popup xác nhận lưu bản ghi 
- 
-Bước 3.1: NSD nhấn nút **<Có>** hệ thống hiển thị thông báo “Cập nhật dữ liệu thành công” và cập nhật thông tin bắt, tạm giam, tạm giữ thành công, thông tin được lưu vào danh sách bắt, tạm giam, tạm giữ. 
-Bước 3.2: 
-+ NSD nhấn nút **<Không>**, bản ghi sẽ không được cập nhật thông tin mới. 
-+ Nếu NSD kích nút **<Hủy bỏ**>**, thông tin nhập không được lưu, đóng popup và quay về màn hình danh sách bắt, tạm giam, tạm giữ
+![Giao diện màn hình báo cáo 17](/img/bc17.png)
 
+Hệ thống hiển thị màn hình **“Xác nhận”** yêu cầu Trả lại báo cáo cho đơn vị:
 
-### Bước 7: Xem chi tiết bắt, tạm giam, tạm giữ
+- Nếu NSD bấm nút <Đồng ý> hệ thống thông báo trả lại thành công và tự động mất bản ghi đã trả lại đơn vị cấp dưới trong danh sách và quay lại màn hình danh sách số liệu cấp dưới đã gửi.
 
-Vào chức năng, hệ thống hiển thị màn hình giao diện chính như sau: 
- 
-![Giao diện màn hình tạm giam 18](/img/tgtg18.png)
+- Nếu bấm nút **<Không>**, quay trở lại màn hình danh sách số liệu báo cáo cấp dưới đã gửi
 
-Để thực hiện xem chi tiết thông tin bắt, tạm giam, tạm giữ, NSD cần thực hiện các bước sau: 
+#### Chức năng Tổng hợp dữ liệu
 
-Bước 1: Chọn 1 bản ghi từ danh sách bắt, tạm giam, tạm giữ 
+**VKSND Tỉnh chỉ tổng hợp được dữ liệu khi đơn vị cấp dưới (Huyện, Phòng ban thuộc Tỉnh) đã thực hiện gửi số liệu lên cơ quan cấp trên.**
 
-Bước 2: Nhấn nút **<Xem chi tiết>**, hệ thống hiển thị màn hình chi tiết thông tin bắt, tạm giam, tạm giữ 
+**Mục đích:** Chức năng áp dụng cho Cấp VKSND Tỉnh gửi số liệu lên VKSND Tối cao
 
-![Giao diện màn hình tạm giam 19](/img/tgtg19.png)
++ NSD Đăng nhập thành công vào đường dẫn **https://baocao.vksndtc.gov.vn** và nhấn chọn **<Báo cáo theo QĐ số 560/QĐ-VKSTC>** trên thanh menu trái
 
-### Bước 8: Xóa bắt, tạm giam, tạm giữ
++ NSD vào chức năng Tổng hợp số liệu đơn vị cấp dưới, để thực hiện chức năng Tổng hợp dữ liệu, NSD cần thực hiện các bước sau:
 
-Vào chức năng, hệ thống hiển thị màn hình giao diện chính như sau: 
+![Giao diện màn hình báo cáo 18](/img/bc18.png)
 
-![Giao diện màn hình tạm giam 17](/img/tgtg17.png)
- 
-Để thực hiện xóa thông tin bắt, tạm giam, tạm giữ, NSD cần thực hiện các bước sau: 
+•	Bước 1: Chọn menu Tổng hợp số liệu đơn vị cấp dưới
+•	Bước 2:  Bấm nút Tổng hợp dữ liệu, màn hình hiển thị như sau:
 
-Bước 1: Chọn 1 bản ghi từ danh sách bắt, tạm giam, tạm giữ 
+![Giao diện màn hình báo cáo 19](/img/bc19.png)
 
-Bước 2: Nhấn nút **<Xóa>**, hệ thống hiển thị thông báo xác nhận xóa. 
 
-Bước 3: 
- 
-TH1: Nhấn nút **<Có>**, bản ghi chọn xóa thành công và không  hiển thị tại danh sách **<Bắt, tạm giam, tạm giữ>**
-
-TH2: Nhấn nút **<Không>**, bản ghi chọn không được xóa và vẫn hiển thị tại danh sách < Bắt, tạm giam, tạm giữ > 
-
-![Giao diện màn hình tạm giam 20](/img/tgtg20.png)
 
 
 
