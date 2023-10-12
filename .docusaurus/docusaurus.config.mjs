@@ -7,8 +7,8 @@ export default {
   "title": "Trung tâm Hỗ trợ",
   "tagline": "HỆ THỐNG SỔ THỤ LÝ ĐIỆN TỬ ÁN HÌNH SỰ",
   "favicon": "img/favicon.ico",
-  "url": "https://hotro.vksndtc.gov.vn",
-  "baseUrl": "/",
+  "url": "https://baocao.vksndtc.gov.vn",
+  "baseUrl": "/hotro/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -27,10 +27,6 @@ export default {
       {
         "docs": {
           "sidebarPath": "D:\\TAM\\VIEN KIEM SAT NDTC\\HDSD\\hdsd_html\\hotro-main\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
@@ -55,13 +51,8 @@ export default {
           "label": "Hướng dẫn sử dụng"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://sothuly.vksndtc.gov.vn/",
-          "label": "Website",
+          "href": "https://baocao.vksndtc.gov.vn/",
+          "label": "Báo cáo",
           "position": "right"
         }
       ],
@@ -75,11 +66,7 @@ export default {
           "items": [
             {
               "label": "Hướng dẫn sử dụng",
-              "to": "/docs/intro"
-            },
-            {
-              "label": "Blog",
-              "to": "/blog"
+              "to": "/docs/tinbao"
             }
           ]
         },

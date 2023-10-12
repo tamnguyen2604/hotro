@@ -6,7 +6,7 @@
   "source": "@site/docs/vu-an/3-xet-xu-phuc-tham.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/xet-xu-phuc-tham",
-  "permalink": "/docs/vu-an/xet-xu-phuc-tham",
+  "permalink": "/hotro/docs/vu-an/xet-xu-phuc-tham",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/3-xet-xu-phuc-tham.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Xét xử sơ thẩm",
-    "permalink": "/docs/vu-an/xet-xu-so-tham"
+    "permalink": "/hotro/docs/vu-an/xet-xu-so-tham"
   },
   "next": {
     "title": "Xét xử GĐT-TT",
-    "permalink": "/docs/vu-an/xet-xu-gdt-tt"
+    "permalink": "/hotro/docs/vu-an/xet-xu-gdt-tt"
   }
 }

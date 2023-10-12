@@ -6,7 +6,7 @@
   "source": "@site/docs/vu-an/9-chuyen-an.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/chuyen-an",
-  "permalink": "/docs/vu-an/chuyen-an",
+  "permalink": "/hotro/docs/vu-an/chuyen-an",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/9-chuyen-an.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tách vụ án",
-    "permalink": "/docs/vu-an/tach-vu-an"
+    "permalink": "/hotro/docs/vu-an/tach-vu-an"
   }
 }

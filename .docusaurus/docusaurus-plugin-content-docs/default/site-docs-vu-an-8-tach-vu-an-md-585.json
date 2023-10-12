@@ -6,7 +6,7 @@
   "source": "@site/docs/vu-an/8-tach-vu-an.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/tach-vu-an",
-  "permalink": "/docs/vu-an/tach-vu-an",
+  "permalink": "/hotro/docs/vu-an/tach-vu-an",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an/8-tach-vu-an.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nhập vụ án",
-    "permalink": "/docs/vu-an/nhap-vu-an"
+    "permalink": "/hotro/docs/vu-an/nhap-vu-an"
   },
   "next": {
     "title": "Chuyển án",
-    "permalink": "/docs/vu-an/chuyen-an"
+    "permalink": "/hotro/docs/vu-an/chuyen-an"
   }
 }

@@ -12,19 +12,19 @@
       {
         "type": "link",
         "label": "Tin báo",
-        "href": "/docs/tinbao",
+        "href": "/hotro/docs/tinbao",
         "docId": "tinbao"
       },
       {
         "type": "link",
         "label": "Bắt, tạm giam, tạm giữ",
-        "href": "/docs/bat-tam-giam-tam-giu",
+        "href": "/hotro/docs/bat-tam-giam-tam-giu",
         "docId": "bat-tam-giam-tam-giu"
       },
       {
         "type": "link",
         "label": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
-        "href": "/docs/bao-cao-theo-qd560",
+        "href": "/hotro/docs/bao-cao-theo-qd560",
         "docId": "bao-cao-theo-qd560"
       },
       {
@@ -36,59 +36,59 @@
           {
             "type": "link",
             "label": "Điều tra - Truy tố",
-            "href": "/docs/vu-an/dieu-tra-truy-to",
+            "href": "/hotro/docs/vu-an/dieu-tra-truy-to",
             "docId": "vu-an/dieu-tra-truy-to"
           },
           {
             "type": "link",
             "label": "Xét xử sơ thẩm",
-            "href": "/docs/vu-an/xet-xu-so-tham",
+            "href": "/hotro/docs/vu-an/xet-xu-so-tham",
             "docId": "vu-an/xet-xu-so-tham"
           },
           {
             "type": "link",
             "label": "Xét xử phúc thẩm",
-            "href": "/docs/vu-an/xet-xu-phuc-tham",
+            "href": "/hotro/docs/vu-an/xet-xu-phuc-tham",
             "docId": "vu-an/xet-xu-phuc-tham"
           },
           {
             "type": "link",
             "label": "Xét xử GĐT-TT",
-            "href": "/docs/vu-an/xet-xu-gdt-tt",
+            "href": "/hotro/docs/vu-an/xet-xu-gdt-tt",
             "docId": "vu-an/xet-xu-gdt-tt"
           },
           {
             "type": "link",
             "label": "Thi hành án",
-            "href": "/docs/vu-an/thi-hanh-an",
+            "href": "/hotro/docs/vu-an/thi-hanh-an",
             "docId": "vu-an/thi-hanh-an"
           },
           {
             "type": "link",
             "label": "Nhận án",
-            "href": "/docs/vu-an/nhan-an",
+            "href": "/hotro/docs/vu-an/nhan-an",
             "docId": "vu-an/nhan-an"
           },
           {
             "type": "link",
             "label": "Nhập vụ án",
-            "href": "/docs/vu-an/nhap-vu-an",
+            "href": "/hotro/docs/vu-an/nhap-vu-an",
             "docId": "vu-an/nhap-vu-an"
           },
           {
             "type": "link",
             "label": "Tách vụ án",
-            "href": "/docs/vu-an/tach-vu-an",
+            "href": "/hotro/docs/vu-an/tach-vu-an",
             "docId": "vu-an/tach-vu-an"
           },
           {
             "type": "link",
             "label": "Chuyển án",
-            "href": "/docs/vu-an/chuyen-an",
+            "href": "/hotro/docs/vu-an/chuyen-an",
             "docId": "vu-an/chuyen-an"
           }
         ],
-        "href": "/docs/category/vụ-án"
+        "href": "/hotro/docs/category/vụ-án"
       }
     ]
   },

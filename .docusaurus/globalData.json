@@ -1,78 +1,78 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/hotro/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/hotro/docs",
           "mainDocId": "tinbao",
           "docs": [
             {
               "id": "bao-cao-theo-qd560",
-              "path": "/docs/bao-cao-theo-qd560",
+              "path": "/hotro/docs/bao-cao-theo-qd560",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "bat-tam-giam-tam-giu",
-              "path": "/docs/bat-tam-giam-tam-giu",
+              "path": "/hotro/docs/bat-tam-giam-tam-giu",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tinbao",
-              "path": "/docs/tinbao",
+              "path": "/hotro/docs/tinbao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/chuyen-an",
-              "path": "/docs/vu-an/chuyen-an",
+              "path": "/hotro/docs/vu-an/chuyen-an",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/dieu-tra-truy-to",
-              "path": "/docs/vu-an/dieu-tra-truy-to",
+              "path": "/hotro/docs/vu-an/dieu-tra-truy-to",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/nhan-an",
-              "path": "/docs/vu-an/nhan-an",
+              "path": "/hotro/docs/vu-an/nhan-an",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/nhap-vu-an",
-              "path": "/docs/vu-an/nhap-vu-an",
+              "path": "/hotro/docs/vu-an/nhap-vu-an",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/tach-vu-an",
-              "path": "/docs/vu-an/tach-vu-an",
+              "path": "/hotro/docs/vu-an/tach-vu-an",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/thi-hanh-an",
-              "path": "/docs/vu-an/thi-hanh-an",
+              "path": "/hotro/docs/vu-an/thi-hanh-an",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/xet-xu-gdt-tt",
-              "path": "/docs/vu-an/xet-xu-gdt-tt",
+              "path": "/hotro/docs/vu-an/xet-xu-gdt-tt",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/xet-xu-phuc-tham",
-              "path": "/docs/vu-an/xet-xu-phuc-tham",
+              "path": "/hotro/docs/vu-an/xet-xu-phuc-tham",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vu-an/xet-xu-so-tham",
-              "path": "/docs/vu-an/xet-xu-so-tham",
+              "path": "/hotro/docs/vu-an/xet-xu-so-tham",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/vụ-án",
-              "path": "/docs/category/vụ-án",
+              "path": "/hotro/docs/category/vụ-án",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -80,7 +80,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/tinbao",
+                "path": "/hotro/docs/tinbao",
                 "label": "tinbao"
               }
             }

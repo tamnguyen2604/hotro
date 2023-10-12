@@ -1,0 +1,16 @@
+{
+  "title": "Vụ án",
+  "description": " ",
+  "slug": "/category/vụ-án",
+  "permalink": "/hotro/docs/category/vụ-án",
+  "navigation": {
+    "previous": {
+      "title": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+      "permalink": "/hotro/docs/bao-cao-theo-qd560"
+    },
+    "next": {
+      "title": "Điều tra - Truy tố",
+      "permalink": "/hotro/docs/vu-an/dieu-tra-truy-to"
+    }
+  }
+}
