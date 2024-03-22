@@ -120,7 +120,7 @@
     "vu-an/dieu-tra-truy-to": {
       "id": "vu-an/dieu-tra-truy-to",
       "title": "Điều tra - Truy tố",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn điều tra- truy tố.",
       "sidebar": "tutorialSidebar"
     },
     "vu-an/nhan-an": {
@@ -144,7 +144,7 @@
     "vu-an/thi-hanh-an": {
       "id": "vu-an/thi-hanh-an",
       "title": "Thi hành án",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn thi hành án, các thông tin cần quản lý bao gồm: Thụ lý, Kiểm sát viên/Điều tra viên, Quyết định thi hành án, Quyết định khác",
       "sidebar": "tutorialSidebar"
     },
     "vu-an/xet-xu-gdt-tt": {
@@ -162,7 +162,7 @@
     "vu-an/xet-xu-so-tham": {
       "id": "vu-an/xet-xu-so-tham",
       "title": "Xét xử sơ thẩm",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn sơ thẩm, các thông tin cần quản lý bao gồm: Vụ án, Thụ lý, Bị can/bị cáo, Quyết định vụ án, Bản án, Kháng cáo, Kháng nghị",
       "sidebar": "tutorialSidebar"
     }
   }

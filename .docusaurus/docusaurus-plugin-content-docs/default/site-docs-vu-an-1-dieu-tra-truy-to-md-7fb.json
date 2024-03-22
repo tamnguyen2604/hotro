@@ -2,7 +2,7 @@
   "unversionedId": "vu-an/dieu-tra-truy-to",
   "id": "vu-an/dieu-tra-truy-to",
   "title": "Điều tra - Truy tố",
-  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn điều tra- truy tố.",
   "source": "@site/docs/vu-an/1-dieu-tra-truy-to.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/dieu-tra-truy-to",

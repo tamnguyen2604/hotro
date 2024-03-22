@@ -2,7 +2,7 @@
   "unversionedId": "vu-an/xet-xu-so-tham",
   "id": "vu-an/xet-xu-so-tham",
   "title": "Xét xử sơ thẩm",
-  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn sơ thẩm, các thông tin cần quản lý bao gồm: Vụ án, Thụ lý, Bị can/bị cáo, Quyết định vụ án, Bản án, Kháng cáo, Kháng nghị",
   "source": "@site/docs/vu-an/2-xet-xu-so-tham.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/xet-xu-so-tham",

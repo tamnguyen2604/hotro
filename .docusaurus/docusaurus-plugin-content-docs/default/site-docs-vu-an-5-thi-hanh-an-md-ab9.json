@@ -2,7 +2,7 @@
   "unversionedId": "vu-an/thi-hanh-an",
   "id": "vu-an/thi-hanh-an",
   "title": "Thi hành án",
-  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn thi hành án, các thông tin cần quản lý bao gồm: Thụ lý, Kiểm sát viên/Điều tra viên, Quyết định thi hành án, Quyết định khác",
   "source": "@site/docs/vu-an/5-thi-hanh-an.md",
   "sourceDirName": "vu-an",
   "slug": "/vu-an/thi-hanh-an",

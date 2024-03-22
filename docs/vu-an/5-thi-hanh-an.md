@@ -4,4 +4,4 @@ sidebar_position: 5
 
 # Thi hành án
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn thi hành án, các thông tin cần quản lý bao gồm: **Thụ lý, Kiểm sát viên/Điều tra viên, Quyết định thi hành án, Quyết định khác**

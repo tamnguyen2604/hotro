@@ -287,9 +287,99 @@ Chức năng áp dụng đối với báo cáo có trạng thái **<Chưa gửi 
 
 •	Hệ thống hiển thị màn **“Xác nhận”** yêu cầu xóa:
 
-o	Nếu NSD bấm nút <Có> hệ thống thực hiện xóa bản ghi và quay lại màn hình danh sách yêu cầu báo cáo. 
-``
-o	Nếu bấm nút <Không>, quay trở lại màn hình danh sách kết quả báo cáo
+o	Nếu NSD bấm nút **<Có>** hệ thống thực hiện xóa bản ghi và quay lại màn hình danh sách yêu cầu báo cáo.
+
+o	Nếu bấm nút **<Không>**, quay trở lại màn hình danh sách kết quả báo cáo
+
+![Giao diện màn hình báo cáo 30](/img/bc30.png)
+
+### Đối với tài khoản cấp VKSND Tối Cao
+
+**Lưu ý:** NSD có thể đăng nhập theo tài khoản và mật khẩu đã được cấp trước đây nhưng phải được bổ sung thêm quyền truy cập vào chức năng Báo cáo theo QĐ số 560/QĐ-VKSTC
+
+#### Chức năng Xem số liệu đơn vị cấp dưới
+
++ NSD Đăng nhập thành công vào đường dẫn **https://baocao.vksndtc.gov.vn** và nhấn chọn **<Báo cáo theo QĐ số 560/QĐ-VKSTC>** trên thanh menu trái
++ NSD vào chức năng Xem số liệu đơn vị cấp dưới, hệ thống hiển thị màn hình giao diện chính như sau:
+
+![Giao diện màn hình báo cáo 31](/img/bc31.png)
+
+Để thực hiện tìm kiếm thông tin số liệu báo cáo đơn vị cấp dưới, NSD cần thực hiện các bước sau:
+
+![Giao diện màn hình báo cáo 32](/img/bc32.png)
+
+**Bước 1:** Chọn hoặc nhập tham số các tiêu chí để tìm kiếm thông tin, chi tiết như sau:
+
+- **Biểu báo cáo:** Chọn các loại biểu thống kê theo danh sách
+- **Báo cáo công tác:** Chọn báo cáo công tác theo từng tháng, 6 tháng đầu năm, 6 tháng cuối năm, 12 tháng
+- **Chọn tỉnh:** Hệ thống hiển thị danh sách các Tỉnh và các Vụ/Viện thuộc VKSND Tối Cao
+- **Chọn đơn vị:** Hệ thống hiển thị danh sách các phòng và các quận huyện của Tỉnh/TP để NSD lựa chọn
+
+**Bước 2:** Nhấn nút **<Tìm kiếm>** để thực hiện tìm kiếm danh sách bản ghi các yêu cầu báo cáo theo tiêu chí tìm kiếm
+
+**Chú ý:** NSD có thể tải file kết xuất của đơn vị cấp dưới về máy bằng cách bấm vào tệp báo cáo trong cột Tệp báo cáo ở danh sách
+
+#### Chức năng Trả lại báo cáo
+
+**Mục đích:** Khi số liệu đơn vị cấp dưới có sự chênh lệch hoặc chưa đúng yêu cầu báo cáo, đơn vị cấp trên có thể sử dụng chức năng này để cấp dưới báo cáo lại.
+
+NSD vào chức năng Xem số liệu đơn vị cấp dưới, để thực hiện chức năng Trả lại báo cáo cho đơn vị cấp dưới, NSD cần thực hiện các bước sau:
+
+![Giao diện màn hình báo cáo 33](/img/bc33.png)
+
+•	**Bước 1:** Chọn nút Xem số liệu đơn vị cấp dưới
+•	**Bước 2:**  Chọn báo cáo đơn vị cấp dưới gửi lên mà cấp trên muốn trả lại
+•	**Bước 3:** Bấm nút Trả lại báo cáo, màn hình hiển thị như sau:
+
+![Giao diện màn hình báo cáo 34](/img/bc34.png)
+
+•	Hệ thống hiển thị màn “Xác nhận” yêu cầu Trả lại báo cáo cho đơn vị:
+o	Nếu NSD bấm nút **<Đồng ý>** hệ thống thông báo trả lại thành công và tự động mất bản ghi đã trả lại đơn vị cấp dưới trong danh sách và quay lại màn hình danh sách số liệu cấp dưới đã gửi. 
+o	Nếu bấm nút **<Không>**, quay trở lại màn hình danh sách số liệu báo cáo cấp dưới đã gửi.
+
+#### Chức năng Tổng hợp số liệu đơn vị cấp dưới tối cao
+
+**VKSND Tối cao chỉ tổng hợp được dữ liệu khi đơn vị cấp dưới (các Tỉnh và các Vụ/Viện thuộc VKSND Tối Cao) đã thực hiện gửi số liệu lên cơ quan cấp trên**
+
+**Mục đích:** chức năng áp dụng cho Cấp VKSND Tối cao xem số liệu báo cáo cấp dưới tổng hợp
+
++ NSD Đăng nhập thành công vào đường dẫn **https://baocao.vksndtc.gov.vn** và nhấn chọn **<Báo cáo theo QĐ số 560/QĐ-VKSTC>** trên thanh menu trái
++ NSD vào chức năng Tổng hợp số liệu đơn vị cấp dưới tối cao, để thực hiện chức năng Tổng hợp dữ liệu, NSD cần thực hiện các bước sau:
+
+![Giao diện màn hình báo cáo 35](/img/bc35.png)
+
+•	**Bước 1:** Chọn menu Tổng hợp số liệu đơn vị cấp dưới tối cao
+•	**Bước 2:**  Bấm nút Tổng hợp dữ liệu, màn hình hiển thị như sau:
+
+![Giao diện màn hình báo cáo 36](/img/bc36.png)
+
+>Để thực hiện tổng hợp dữ liệu báo cáo của đơn vị cấp dưới, NSD cần thực hiện các bước sau:
+
+**Bước 1:** Người sử dụng nhập các thông tin sau:
+
+- **Biểu báo cáo:** Chọn các loại biểu thống kê từ danh sách
+- **Báo cáo công tác:** Chọn báo cáo công tác theo từng tháng, 6 tháng đầu năm, 6 tháng cuối năm, 12 tháng
+- **Năm:** Chọn năm báo cáo
+- **Đơn vị:** hiển thị danh sách các Tỉnh và các Vụ/Viện thuộc VKSND Tối Cao để NSD lựa chọn, hệ thống cho phép chọn nhiều đơn vị một lúc.
+
+Giao diện hiển thị như sau:
+
+![Giao diện màn hình báo cáo 37](/img/bc37.png)
+
+•	**Bước 2:** 
+o	Nếu bấm nút **<Tổng hợp dữ liệu>**, Hệ thống hiển thị màn hình thông tin biểu số tương ứng với yêu cầu báo cáo đã chọn gồm các thông tin như sau:
+
+![Giao diện màn hình báo cáo 38](/img/bc38.png)
+
+**Chú ý:**
+Khi nhập thông tin những trường có dấu (*) là trường bắt buộc nhập, nếu không nhập hiển thị cảnh báo “Trường bắt buộc nhập” yêu cầu người dùng không được để trống.
+
+
+
+
+
+
+
 
 
 

@@ -2,67 +2,67 @@
   "/hotro/__docusaurus/debug-2b2": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/__docusaurus/debug/config-760": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/__docusaurus/debug/content-09f": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---hotro-docusaurus-debug-content-246-dfc"
   },
   "/hotro/__docusaurus/debug/globalData-7f9": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/__docusaurus/debug/metadata-6b3": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/__docusaurus/debug/registry-363": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/__docusaurus/debug/routes-bd4": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-7-d-6-cc1"
+      "plugin": "plugin---hotro-docusaurus-debug-7-d-6-0ea"
     }
   },
   "/hotro/markdown-page-e4d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagec-1-c-53d"
+      "plugin": "plugin---hotro-markdown-pagec-1-c-2ed"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---hotro-markdown-page-393-fed"
   },
   "/hotro/docs-81e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-39-b-0f8"
+      "plugin": "plugin---hotro-docs-39-b-8e6"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---hotro-docs-935-b0e"
   },
   "/hotro/docs/bao-cao-theo-qd560-148": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bao-cao-theo-qd-560-c-94-bfe"
+    "content": "content---hotro-docs-bao-cao-theo-qd-560-c-94-6f6"
   },
   "/hotro/docs/bat-tam-giam-tam-giu-28d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-bat-tam-giam-tam-giuf-88-e49"
+    "content": "content---hotro-docs-bat-tam-giam-tam-giuf-88-fd3"
   },
   "/hotro/docs/category/vụ-án-a99": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -70,49 +70,49 @@
   },
   "/hotro/docs/tinbao-54b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tinbao-546-2de"
+    "content": "content---hotro-docs-tinbao-546-2e9"
   },
   "/hotro/docs/vu-an/chuyen-an-340": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-chuyen-an-681-8a2"
+    "content": "content---hotro-docs-vu-an-chuyen-an-681-1de"
   },
   "/hotro/docs/vu-an/dieu-tra-truy-to-a57": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-dieu-tra-truy-to-7-fb-146"
+    "content": "content---hotro-docs-vu-an-dieu-tra-truy-to-7-fb-d7b"
   },
   "/hotro/docs/vu-an/nhan-an-6b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-nhan-an-9-dd-023"
+    "content": "content---hotro-docs-vu-an-nhan-an-9-dd-1de"
   },
   "/hotro/docs/vu-an/nhap-vu-an-3be": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-nhap-vu-anf-33-0df"
+    "content": "content---hotro-docs-vu-an-nhap-vu-anf-33-d21"
   },
   "/hotro/docs/vu-an/tach-vu-an-f61": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-tach-vu-an-585-847"
+    "content": "content---hotro-docs-vu-an-tach-vu-an-585-bf7"
   },
   "/hotro/docs/vu-an/thi-hanh-an-3bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-thi-hanh-anab-9-938"
+    "content": "content---hotro-docs-vu-an-thi-hanh-anab-9-17d"
   },
   "/hotro/docs/vu-an/xet-xu-gdt-tt-418": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-xet-xu-gdt-tt-250-fdf"
+    "content": "content---hotro-docs-vu-an-xet-xu-gdt-tt-250-08a"
   },
   "/hotro/docs/vu-an/xet-xu-phuc-tham-4e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-xet-xu-phuc-tham-9-a-2-5eb"
+    "content": "content---hotro-docs-vu-an-xet-xu-phuc-tham-9-a-2-501"
   },
   "/hotro/docs/vu-an/xet-xu-so-tham-8dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vu-an-xet-xu-so-thama-55-b46"
+    "content": "content---hotro-docs-vu-an-xet-xu-so-thama-55-360"
   },
   "/hotro/-22f": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagec-1-c-53d"
+      "plugin": "plugin---hotro-markdown-pagec-1-c-2ed"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---hotro-5-e-9-77d"
   }
 }
