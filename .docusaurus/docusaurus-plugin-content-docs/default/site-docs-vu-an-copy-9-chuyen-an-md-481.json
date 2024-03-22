@@ -1,0 +1,23 @@
+{
+  "unversionedId": "vu-an copy/chuyen-an",
+  "id": "vu-an copy/chuyen-an",
+  "title": "Chuyển án",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/vu-an copy/9-chuyen-an.md",
+  "sourceDirName": "vu-an copy",
+  "slug": "/vu-an copy/chuyen-an",
+  "permalink": "/docs/vu-an copy/chuyen-an",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an copy/9-chuyen-an.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tách vụ án",
+    "permalink": "/docs/vu-an copy/tach-vu-an"
+  }
+}

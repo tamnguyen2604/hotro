@@ -1,7 +1,7 @@
 {
   "unversionedId": "vu-an/dieu-tra-truy-to",
   "id": "vu-an/dieu-tra-truy-to",
-  "title": "Điều tra truy tố",
+  "title": "Điều tra - Truy tố",
   "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
   "source": "@site/docs/vu-an/dieu-tra-truy-to.md",
   "sourceDirName": "vu-an",
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/vụ-án"
   },
   "next": {
-    "title": "Kho biet",
-    "permalink": "/docs/vu-an/cai-gi-khong-biet"
+    "title": "Nhận án",
+    "permalink": "/docs/vu-an/nhan-an"
   }
 }

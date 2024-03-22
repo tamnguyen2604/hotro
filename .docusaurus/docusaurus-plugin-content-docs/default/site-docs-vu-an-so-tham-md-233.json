@@ -17,7 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
+    "title": "Điều tra - Truy tố",
+    "permalink": "/docs/vu-an/dieu-tra-truy-to"
+  },
+  "next": {
     "title": "Kho biet",
-    "permalink": "/docs/vu-an/cai-gi-khong-biet"
+    "permalink": "/docs/vu-an/xet-xu-so-tham"
   }
 }

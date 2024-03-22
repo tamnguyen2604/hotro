@@ -12,14 +12,20 @@
       {
         "type": "link",
         "label": "Tin báo",
-        "href": "/docs/tinbao",
+        "href": "/hotro/docs/tinbao",
         "docId": "tinbao"
       },
       {
         "type": "link",
         "label": "Bắt, tạm giam, tạm giữ",
-        "href": "/docs/bat-tam-giam-tam-giu",
+        "href": "/hotro/docs/bat-tam-giam-tam-giu",
         "docId": "bat-tam-giam-tam-giu"
+      },
+      {
+        "type": "link",
+        "label": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+        "href": "/hotro/docs/bao-cao-theo-qd560",
+        "docId": "bao-cao-theo-qd560"
       },
       {
         "type": "category",
@@ -29,28 +35,70 @@
         "items": [
           {
             "type": "link",
-            "label": "Điều tra truy tố",
-            "href": "/docs/vu-an/dieu-tra-truy-to",
+            "label": "Điều tra - Truy tố",
+            "href": "/hotro/docs/vu-an/dieu-tra-truy-to",
             "docId": "vu-an/dieu-tra-truy-to"
           },
           {
             "type": "link",
-            "label": "Kho biet",
-            "href": "/docs/vu-an/cai-gi-khong-biet",
-            "docId": "vu-an/cai-gi-khong-biet"
+            "label": "Xét xử sơ thẩm",
+            "href": "/hotro/docs/vu-an/xet-xu-so-tham",
+            "docId": "vu-an/xet-xu-so-tham"
           },
           {
             "type": "link",
-            "label": "sơ thẩm",
-            "href": "/docs/vu-an/so-tham",
-            "docId": "vu-an/so-tham"
+            "label": "Xét xử phúc thẩm",
+            "href": "/hotro/docs/vu-an/xet-xu-phuc-tham",
+            "docId": "vu-an/xet-xu-phuc-tham"
+          },
+          {
+            "type": "link",
+            "label": "Xét xử GĐT-TT",
+            "href": "/hotro/docs/vu-an/xet-xu-gdt-tt",
+            "docId": "vu-an/xet-xu-gdt-tt"
+          },
+          {
+            "type": "link",
+            "label": "Thi hành án",
+            "href": "/hotro/docs/vu-an/thi-hanh-an",
+            "docId": "vu-an/thi-hanh-an"
+          },
+          {
+            "type": "link",
+            "label": "Nhận án",
+            "href": "/hotro/docs/vu-an/nhan-an",
+            "docId": "vu-an/nhan-an"
+          },
+          {
+            "type": "link",
+            "label": "Nhập vụ án",
+            "href": "/hotro/docs/vu-an/nhap-vu-an",
+            "docId": "vu-an/nhap-vu-an"
+          },
+          {
+            "type": "link",
+            "label": "Tách vụ án",
+            "href": "/hotro/docs/vu-an/tach-vu-an",
+            "docId": "vu-an/tach-vu-an"
+          },
+          {
+            "type": "link",
+            "label": "Chuyển án",
+            "href": "/hotro/docs/vu-an/chuyen-an",
+            "docId": "vu-an/chuyen-an"
           }
         ],
-        "href": "/docs/category/vụ-án"
+        "href": "/hotro/docs/category/vụ-án"
       }
     ]
   },
   "docs": {
+    "bao-cao-theo-qd560": {
+      "id": "bao-cao-theo-qd560",
+      "title": "Báo cáo theo QĐ số 560/QĐ-VKSTC",
+      "description": "Mục đích",
+      "sidebar": "tutorialSidebar"
+    },
     "bat-tam-giam-tam-giu": {
       "id": "bat-tam-giam-tam-giu",
       "title": "Bắt, tạm giam, tạm giữ",
@@ -63,22 +111,58 @@
       "description": "Mục đích",
       "sidebar": "tutorialSidebar"
     },
-    "vu-an/cai-gi-khong-biet": {
-      "id": "vu-an/cai-gi-khong-biet",
-      "title": "Kho biet",
+    "vu-an/chuyen-an": {
+      "id": "vu-an/chuyen-an",
+      "title": "Chuyển án",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
     "vu-an/dieu-tra-truy-to": {
       "id": "vu-an/dieu-tra-truy-to",
-      "title": "Điều tra truy tố",
+      "title": "Điều tra - Truy tố",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn điều tra- truy tố.",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/nhan-an": {
+      "id": "vu-an/nhan-an",
+      "title": "Nhận án",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
       "sidebar": "tutorialSidebar"
     },
-    "vu-an/so-tham": {
-      "id": "vu-an/so-tham",
-      "title": "sơ thẩm",
+    "vu-an/nhap-vu-an": {
+      "id": "vu-an/nhap-vu-an",
+      "title": "Nhập vụ án",
       "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/tach-vu-an": {
+      "id": "vu-an/tach-vu-an",
+      "title": "Tách vụ án",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/thi-hanh-an": {
+      "id": "vu-an/thi-hanh-an",
+      "title": "Thi hành án",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn thi hành án, các thông tin cần quản lý bao gồm: Thụ lý, Kiểm sát viên/Điều tra viên, Quyết định thi hành án, Quyết định khác",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-gdt-tt": {
+      "id": "vu-an/xet-xu-gdt-tt",
+      "title": "Xét xử GĐT-TT",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-phuc-tham": {
+      "id": "vu-an/xet-xu-phuc-tham",
+      "title": "Xét xử phúc thẩm",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "vu-an/xet-xu-so-tham": {
+      "id": "vu-an/xet-xu-so-tham",
+      "title": "Xét xử sơ thẩm",
+      "description": "Phân hệ này cho phép NSD kiểm sát toàn bộ thông tin ở giai đoạn sơ thẩm, các thông tin cần quản lý bao gồm: Vụ án, Thụ lý, Bị can/bị cáo, Quyết định vụ án, Bản án, Kháng cáo, Kháng nghị",
       "sidebar": "tutorialSidebar"
     }
   }

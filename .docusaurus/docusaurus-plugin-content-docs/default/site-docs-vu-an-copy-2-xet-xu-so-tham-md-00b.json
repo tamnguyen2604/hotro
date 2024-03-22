@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vu-an copy/xet-xu-so-tham",
+  "id": "vu-an copy/xet-xu-so-tham",
+  "title": "Xét xử sơ thẩm",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/vu-an copy/2-xet-xu-so-tham.md",
+  "sourceDirName": "vu-an copy",
+  "slug": "/vu-an copy/xet-xu-so-tham",
+  "permalink": "/docs/vu-an copy/xet-xu-so-tham",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vu-an copy/2-xet-xu-so-tham.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Điều tra - Truy tố",
+    "permalink": "/docs/vu-an copy/dieu-tra-truy-to"
+  },
+  "next": {
+    "title": "Xét xử phúc thẩm",
+    "permalink": "/docs/vu-an copy/xet-xu-phuc-tham"
+  }
+}
